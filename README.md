@@ -27,6 +27,24 @@ This project is a Flask-based web application that detects and prevents duplicat
 * CSS
 * Bootstrap 5
 
+## Project Screenshots
+
+### Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+### Add Record Page
+
+![Add Record](assets/add_record.png)
+
+### Records Page
+
+![Records](assets/records.png)
+
+### Duplicate Logs
+
+![Logs](assets/duplicate_logs.png)
+
 ## Cloud Computing Concepts
 
 * Data Redundancy Removal
